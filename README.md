@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deva-1903
+- 👋 Hi, I’m Deva 
 - 👀 I’m interested in Development and Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on open-source projects
