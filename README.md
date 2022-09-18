@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deva 
-- 👀 I’m interested in Development and Machine Learning
+- 👀 I’m interested in Full Stack Development and Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 Reach me @devaags999@gmail.com
