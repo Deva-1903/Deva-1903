@@ -26,7 +26,7 @@
 <a href="https://www.leetcode.com/Deva_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a>
 <a href="https://fb.com/devaa19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deva" height="40" width="50" /></a>
 <a href="https://instagram.com/_devaaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devaaa__"  height="40" width="50" /></a>
-<a href="https://medium.com/@devaags999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devaags999"  height="40" width="50" /></a>
+<a href="https://medium.com/@devaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devaags999"  height="40" width="50" /></a>
 
 
 </p>
