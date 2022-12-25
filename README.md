@@ -3,9 +3,9 @@
 
 <br>
 
-- 👀 I have great interest in **Backend stuffs and artificial intelligence**
+- 👀 I have great interest in **Backend stuffs, DevOps and artificial intelligence**
 
-- 🌱 I’m currently focusing on **Backend Development**
+- 🌱 I’m currently focusing on **Backend Development and DevOps**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
