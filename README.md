@@ -16,10 +16,7 @@
 - 📫 How to reach me **devaags999@gmail.com**
 
 <br>
-
-
 <br>
-
 <p align="center">
 <a href="https://twitter.com/devaaa_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devaaa" height="40" width="50" style="padding: 10px 50px 20px" /></a>
 <a href="https://linkedin.com/in/devaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deva anand"  height="40" width="50" /></a>
@@ -27,16 +24,32 @@
 <a href="https://fb.com/devaa19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deva" height="40" width="50" /></a>
 <a href="https://instagram.com/_devaaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devaaa__"  height="40" width="50" /></a>
 <a href="https://medium.com/@devaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devaags999"  height="40" width="50" /></a>
-
-
 </p>
-
 <br>
-
-
-
-<h2 align="center"> 🔥 Contributions: </h2>
-
-<p align='center'>	
-  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deva-1903&show_icons=true&locale=en&theme=dark&count_private=true" />  <img width="420px"src="https://github-readme-streak-stats.herokuapp.com/?user=deva-1903&theme=dark" />
+<h2 align="center"> 🔥 Contributions 😊 </h2>
+<table align="center">
+<tr>
+<td>
+ <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deva-1903&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Deva's github stats" height="200" /></a>
+</td>
+<td>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deva-1903&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" /></a>
+</td>
+</tr>
+</table>
+<!-- <br> -->
+<p align="center">
 </p>
+<br>
+<p align="center">
+  <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/footer/octocat-wave.gif" width="70%">
+  <br><br>
+  <samp>
+    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a ⭐️</i> 
+  </samp>
+</p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
+</p>
+
