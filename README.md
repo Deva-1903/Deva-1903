@@ -33,7 +33,7 @@
  <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deva-1903&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Deva's github stats" height="200" /></a>
 </td>
 <td>
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deva-1903&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" /></a>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deva-1903&count_private=true&theme=ocean-gradient&hide_border=true&stroke=0000&background=060A0CD"/></a>
 </td>
 </tr>
 </table>
