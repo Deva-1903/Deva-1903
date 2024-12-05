@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **anything related to backend development, distributed systems, and ML systems optimization**
 
+- 🔒 I have several **personal projects** on **private repositories** that showcase my work in backend development, ML systems, and distributed systems optimizations. Feel free to ask for more details!
+
 - 📫 How to reach me: **devaags999@gmail.com**
 
 <br>
