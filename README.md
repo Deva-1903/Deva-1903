@@ -1,19 +1,19 @@
-<h1 align="center">Hey folk<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Deva!  </h1>
-<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
+<h1 align="center">Hey folk<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Deva!</h1>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif">
 
 <br>
 
-- 👀 I have great interest in **Backend, DevOps and artificial intelligence**
+- 👀 I have a strong interest in **Machine Learning Systems**, **Backend Development**, and **High-Performance Computing** (HPC)
 
-- 🌱 I’m currently focusing on **Backend Development and DevOps**
+- 🌱 I’m currently focusing on **Machine Learning Systems** research, particularly in **distributed systems, compilers, and runtime optimizations** to enhance the scalability and performance of ML workloads
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **ML systems-related open-source projects** and research initiatives
 
 - 👨‍💻 All of my links are available at [https://devaa.bio.link/](https://devaa.bio.link/)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything related to backend development, distributed systems, and ML systems optimization**
 
-- 📫 How to reach me **devaags999@gmail.com**
+- 📫 How to reach me: **devaags999@gmail.com**
 
 <br>
 <br>
