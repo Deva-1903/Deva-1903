@@ -24,7 +24,7 @@
 <a href="https://medium.com/@devaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devaags999"  height="40" width="50" /></a>
 </p>
 <br>
-<h2 align="center"> 🔥 Contributions 😊 </h2>
+<!-- <h2 align="center"> 🔥 Contributions 😊 </h2>
 <table align="center">
 <tr>
 <td>
@@ -34,7 +34,7 @@
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deva-1903&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD"/></a>
 </td>
 </tr>
-</table>
+</table> -->
 <!-- <br> -->
 <p align="center">
 </p>
