@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **ML systems-related open-source projects** and research initiatives
 
-- 👨‍💻 All of my links are available at [https://devaa.bio.link/](https://devaa.bio.link/)
-
 - 💬 Ask me about **anything related to backend development, distributed systems, and ML systems optimization**
 
 - 📫 How to reach me: **devaags999@gmail.com**
