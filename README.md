@@ -13,8 +13,6 @@
 
 - 🔒 I have several **personal projects** on **private repositories** that showcase my work in backend development, ML systems, and distributed systems optimizations. Feel free to ask for more details!
 
-- 📫 How to reach me: **devaags999@gmail.com**
-
 <br>
 <br>
 <p align="center">
