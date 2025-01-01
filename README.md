@@ -2,6 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif">
 
 <br>
+- Work account - https://github.com/Deva-wysa
 
 - 👀 I have a strong interest in **Machine Learning Systems**, **Backend Development**, and **High-Performance Computing** (HPC)
 
