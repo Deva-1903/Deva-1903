@@ -6,22 +6,22 @@
 
 ### Now
 
-- 🏥 **Software Engineering Intern @ TherAlign Health** — SMART on FHIR clinical decision support in the EHR prescribing flow (Next.js, Firebase/GCP)
-- 🧠 **Culture & Morality Lab, UMass** — sole engineer on a self-serve NLP text-analysis platform for researchers (FastAPI, sentence-transformers, React)
+- 🏥 **Software Engineering Intern @ TherAlign Health** - SMART on FHIR clinical decision support in the EHR prescribing flow (Next.js, Firebase/GCP)
+- 🧠 **Culture & Morality Lab, UMass** - sole engineer on a self-serve NLP text-analysis platform for researchers (FastAPI, sentence-transformers, React)
 
 ### Before
 
-- ⚙️ **Backend Engineer @ Wysa** (2023–2025) — multi-tenant NHS eTriage backend serving 8+ UK clinical clients and 10,000+ monthly triage submissions; owned security (AWS KMS, 20+ VAPT fixes) and zero-downtime releases
+- ⚙️ **Backend Engineer @ Wysa** (2023–2025) - multi-tenant NHS eTriage backend serving 8+ UK clinical clients and 10,000+ monthly triage submissions; owned security (AWS KMS, 20+ VAPT fixes) and zero-downtime releases
 - 📄 First-author IEEE paper (CONIT 2023) on transfer learning for Alzheimer's classification
 
 ### Things I've built
 
 | Project | What it is |
 |---|---|
-| [provisioning-platform](https://github.com/Deva-1903/provisioning-platform) | Server-provisioning control plane in **Go** (REST + gRPC, idempotent workflows) — ~19,700 provisions/min across a 2,500+ server simulated fleet |
-| [gpu-scheduler](https://github.com/Deva-1903/gpu-scheduler) | Multi-tenant GPU/CPU scheduler in **Go** — weighted Dominant Resource Fairness + bin-packing, 542 jobs/min on a simulated 32-GPU fleet |
-| [neon-quantized-gemm](https://github.com/Deva-1903/neon-quantized-gemm) | INT8/INT4 GEMM kernels in **C++** for ARM NEON — 394 GFLOP/s, 132× over the naive baseline |
-| [ciir_agentic_search](https://github.com/Deva-1903/ciir_agentic_search) | Provenance-first agentic entity discovery (**Python/FastAPI**, 150+ tests) — [live demo](https://agentic-search-negglszkwa-uc.a.run.app) |
+| [provisioning-platform](https://github.com/Deva-1903/provisioning-platform) | Server-provisioning control plane in **Go** (REST + gRPC, idempotent workflows) - ~19,700 provisions/min across a 2,500+ server simulated fleet |
+| [gpu-scheduler](https://github.com/Deva-1903/gpu-scheduler) | Multi-tenant GPU/CPU scheduler in **Go** - weighted Dominant Resource Fairness + bin-packing, 542 jobs/min on a simulated 32-GPU fleet |
+| [neon-quantized-gemm](https://github.com/Deva-1903/neon-quantized-gemm) | INT8/INT4 GEMM kernels in **C++** for ARM NEON - 394 GFLOP/s, 132× over the naive baseline |
+| [ciir_agentic_search](https://github.com/Deva-1903/ciir_agentic_search) | Provenance-first agentic entity discovery (**Python/FastAPI**, 150+ tests) - [live demo](https://agentic-search-negglszkwa-uc.a.run.app) |
 | [Spark-ETL-Optimization](https://github.com/Deva-1903/Spark-ETL-Optimization) | Cut **Apache Spark** ETL runtime ~25% on a ~1.4B-row NYC TLC dataset |
 
 **Stack I reach for:** Python · Go · TypeScript/Node.js · C++ · React/Next.js · PostgreSQL · MongoDB · Redis · Spark · AWS/GCP
