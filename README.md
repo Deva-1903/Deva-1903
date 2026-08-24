@@ -1,42 +1,44 @@
 <div align="center">
-  <h1>Hi there, I'm Deva 👋</h1>
-  <h3>MS CS Graduate Student @ UMass Amherst</h3>
-  <p><em>Building efficient systems for Machine Learning and Backend Development</em></p>
+  <h1>Hi, I'm Deva 👋</h1>
+  <h3>MS CS @ UMass Amherst (May 2027) · Backend & ML Systems</h3>
+  <p><em>I build production backends and measure everything.</em></p>
 </div>
 
-<br />
+### Now
+
+- 🏥 **Software Engineering Intern @ TherAlign Health** — SMART on FHIR clinical decision support in the EHR prescribing flow (Next.js, Firebase/GCP)
+- 🧠 **Culture & Morality Lab, UMass** — sole engineer on a self-serve NLP text-analysis platform for researchers (FastAPI, sentence-transformers, React)
+
+### Before
+
+- ⚙️ **Backend Engineer @ Wysa** (2023–2025) — multi-tenant NHS eTriage backend serving 8+ UK clinical clients and 10,000+ monthly triage submissions; owned security (AWS KMS, 20+ VAPT fixes) and zero-downtime releases
+- 📄 First-author IEEE paper (CONIT 2023) on transfer learning for Alzheimer's classification
+
+### Things I've built
+
+| Project | What it is |
+|---|---|
+| [provisioning-platform](https://github.com/Deva-1903/provisioning-platform) | Server-provisioning control plane in **Go** (REST + gRPC, idempotent workflows) — ~19,700 provisions/min across a 2,500+ server simulated fleet |
+| [gpu-scheduler](https://github.com/Deva-1903/gpu-scheduler) | Multi-tenant GPU/CPU scheduler in **Go** — weighted Dominant Resource Fairness + bin-packing, 542 jobs/min on a simulated 32-GPU fleet |
+| [neon-quantized-gemm](https://github.com/Deva-1903/neon-quantized-gemm) | INT8/INT4 GEMM kernels in **C++** for ARM NEON — 394 GFLOP/s, 132× over the naive baseline |
+| [ciir_agentic_search](https://github.com/Deva-1903/ciir_agentic_search) | Provenance-first agentic entity discovery (**Python/FastAPI**, 150+ tests) — [live demo](https://agentic-search-negglszkwa-uc.a.run.app) |
+| [Spark-ETL-Optimization](https://github.com/Deva-1903/Spark-ETL-Optimization) | Cut **Apache Spark** ETL runtime ~25% on a ~1.4B-row NYC TLC dataset |
+
+**Stack I reach for:** Python · Go · TypeScript/Node.js · C++ · React/Next.js · PostgreSQL · MongoDB · Redis · Spark · AWS/GCP
+
+### Let's Connect
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif">
-  
-  <div align="left">
-    <h3>About Me</h3>
-    <p>
-      I am currently pursuing my <strong>Master's in Computer Science</strong> at the <strong>University of Massachusetts Amherst</strong>. My research and engineering interests lie at the intersection of Machine Learning and Systems.
-    </p>
-    <ul>
-      <li>Focusing on <strong>Machine Learning Systems</strong>, <strong>Distributed Systems</strong>, and <strong>High-Performance Computing</strong>.</li>
-      <li>Exploring efficient ways to distribute ML workloads to improve scalability and reduce training time.</li>
-      <li>Open to collaborating on open-source projects in ML systems and backend optimization.</li>
-      <li>Always happy to discuss distributed architectures and runtime optimizations.</li>
-    </ul>
-  </div>
-</div>
-
-<br clear="all" />
-
-<div align="center">
-  <h3>Let's Connect</h3>
-  <a href="https://twitter.com/devaaa_19" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://devaanand.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/devaaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- <a href="https://www.leetcode.com/Deva_A" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-  </a> -->
-  <!-- <a href="https://medium.com/@devaaa" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a> -->
+  <a href="mailto:devaanand@umass.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/devaaa_19" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </div>
